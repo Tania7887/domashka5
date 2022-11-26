@@ -1,0 +1,15 @@
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka5\dom36\bin\Debug\net6.0\dom36.exe
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka5\dom36\bin\Debug\net6.0\dom36.deps.json
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka5\dom36\bin\Debug\net6.0\dom36.runtimeconfig.json
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka5\dom36\bin\Debug\net6.0\dom36.dll
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka5\dom36\bin\Debug\net6.0\dom36.pdb
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka5\dom36\obj\Debug\net6.0\dom36.csproj.AssemblyReference.cache
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka5\dom36\obj\Debug\net6.0\dom36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka5\dom36\obj\Debug\net6.0\dom36.AssemblyInfoInputs.cache
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka5\dom36\obj\Debug\net6.0\dom36.AssemblyInfo.cs
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka5\dom36\obj\Debug\net6.0\dom36.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka5\dom36\obj\Debug\net6.0\dom36.dll
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka5\dom36\obj\Debug\net6.0\refint\dom36.dll
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka5\dom36\obj\Debug\net6.0\dom36.pdb
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka5\dom36\obj\Debug\net6.0\dom36.genruntimeconfig.cache
+C:\Users\Татьяна\OneDrive\Рабочий стол\domashka5\dom36\obj\Debug\net6.0\ref\dom36.dll
