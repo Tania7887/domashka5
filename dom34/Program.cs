@@ -15,7 +15,7 @@ for (int z = 0; z < numbers.Length; z++)
 if (numbers[z] % 2 == 0)
 count++;
 
-Console.WriteLine($"total {numbers.Length} number, {count} even");
+Console.WriteLine($"total number {numbers.Length}, {count} even");
 
 void FillArrayRandomNumbers(int[] numbers)
 {
