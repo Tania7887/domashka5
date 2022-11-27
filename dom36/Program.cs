@@ -15,7 +15,7 @@ int sum = 0;
 for (int z = 0; z < numbers.Length; z+=2)
     sum = sum + numbers[z];
 
-    Console.WriteLine($"total {numbers.Length} number, sum odd element = {sum}");
+    Console.WriteLine($"total number {numbers.Length}, sum odd element = {sum}");
 
 void FillArrayRandomNumbers(int[] numbers)
 {
